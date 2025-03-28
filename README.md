@@ -1,7 +1,5 @@
 # 🚀 SheCode | Innovate. Code. Lead.  
 
-![SheCode Banner](#) <!-- Add an image URL or remove this line if not needed -->
-
 ## 👩‍💻 About Us  
 We are **SheCode**, a team of three passionate Computer Science Engineering (CSE) students from **Government Women's Engineering College, Ajmer (GWEC, Ajmer), currently in our third year**. Our team thrives on innovation, creativity, and collaboration, actively participating in hackathons, tech competitions, and project development.  
 
@@ -29,7 +27,7 @@ We are **SheCode**, a team of three passionate Computer Science Engineering (CSE
 |--------------|---------------------------|---------|--------|
 | **Poorvi Gupta** | [poorvigupta1210@gmail.com] | [LinkedIn](#www.linkedin.com/in/poorvi-gupta-a817032a0) | [GitHub](#) |
 | **Yashika Sharma** | [your-email@example.com] | [LinkedIn](#) | [GitHub](#) |
-| **Palak Sharma** | [your-email@example.com] | [LinkedIn](#https://www.linkedin.com/in/palak-sharma-4799672b1) | [GitHub](#) |
+| **Palak Sharma** | [your-email@example.com] | [LinkedIn](#https://www.linkedin.com/in/palak-sharma-4799672b1) | [GitHub](#https://github.com/palaksharma1432) |
 
 ---
 
