@@ -25,7 +25,7 @@ We are **SheCode**, a team of three passionate Computer Science Engineering (CSE
 
 | Member        | Email                     | LinkedIn | GitHub |
 |--------------|---------------------------|---------|--------|
-| **Poorvi Gupta** | [poorvigupta1210@gmail.com] | [LinkedIn](#www.linkedin.com/in/poorvi-gupta-a817032a0) | [GitHub](#) |
+| **Poorvi Gupta** | [poorvigupta1210@gmail.com] | [LinkedIn](www.linkedin.com/in/poorvi-gupta-a817032a0) | [GitHub](#) |
 | **Yashika Sharma** | [your-email@example.com] | [LinkedIn](#) | [GitHub](#) |
 | **Palak Sharma** | [your-email@example.com] | [LinkedIn](#www.linkedin.com/in/palak-sharma-4799672b1) | [GitHub](#https://github.com/palaksharma1432) |
 
