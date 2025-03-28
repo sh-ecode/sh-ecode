@@ -50,4 +50,4 @@ We are open to collaborations, discussions, and new opportunities!
 ---
 
 ### 🏷️ Tags  
-`#SheCode` `#Hackathons` `#WomenInTech` `#CSE` `#GWEC_Ajmer` `#TechInnovation` `#Flutter` `#Cybersecurity` `#AI/ML` `#OpenSource` `#Collaboration`  
+`#SheCode` `#Hackathons` `#WomenInTech` `#CSE` `#GWEC_Ajmer` `#TechInnovation`  `#AI/ML` `#OpenSource` `#Collaboration`  
